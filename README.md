@@ -1,10 +1,10 @@
 Hi 👋 My name is Stephanie Sanchez
 ==================================
 
-👩🏽‍💻 Software Engineer {...loading}
+👩🏽‍💻 Software Engineer
 ------------------------------------
 
-I'm fascinated by tech. Following a career change from social work and psychology, I have been studying to become a Software Engineer. I'm enjoying learning JavaScript and looking forward to learning other languages thereafter.
+I'm fascinated by tech. Following a career change from social work and psychology, I am now Software Engineer. I'm enjoying learning JavaScript and looking forward to learning other languages thereafter.
 
 * 🌍  I'm based in Miami, Florida 🏖
 * 🧠  I'm learning JavaScript
